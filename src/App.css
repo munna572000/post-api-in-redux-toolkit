@@ -1,0 +1,22 @@
+
+  .cont {
+    width: 250px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 150px;
+    background-color: violet;
+    display: flex;
+  }
+  
+  .cont2 {
+    width: 250px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 150px;
+    background-color: yellow;
+    display: inline-flex;
+    
+  }
+  .m{
+    background-color: red;
+  }
